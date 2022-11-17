@@ -1,0 +1,18 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+
+# .NET Core
+*.lock.json
+artifacts/
+**/appsettings.*.json
+
+# Visual C++ cache files
+*.opendb
+*.sdf
+*.cachefile
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
